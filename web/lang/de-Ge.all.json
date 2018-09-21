@@ -1,0 +1,370 @@
+[
+  {
+    "id": "home",
+    "translation": "Startseite"
+  },
+  {
+    "id": "dashboard",
+    "translation": "Übersicht"
+  },
+  {
+    "id": "new_memo",
+    "translation": "Neues Memo"
+  },
+  {
+    "id": "posts",
+    "translation": "Beiträge"
+  },
+  {
+    "id": "profiles",
+    "translation": "Profile"
+  },
+  {
+    "id": "login",
+    "translation": "Anmelden"
+  },
+  {
+    "id": "logout",
+    "translation": "Abmelden <b>{{.Username}}</b>"
+  },
+  {
+    "id": "about",
+    "translation": "Über uns"
+  },
+  {
+    "id": "protocol",
+    "translation": "Protokoll"
+  },
+  {
+    "id": "disclaimer",
+    "translation": "Impressum"
+  },
+  {
+    "id": "statistics",
+    "translation": "Statistiken"
+  },
+  {
+    "id": "name",
+    "translation": "Name"
+  },
+  {
+    "id": "address",
+    "translation": "Adresse"
+  },
+  {
+    "id": "followers",
+    "translation": "Followers"
+  },
+  {
+    "id": "following",
+    "translation": "Folge ich"
+  },
+  {
+    "id": "balance",
+    "translation": "Guthaben"
+  },
+  {
+    "id": "profile",
+    "translation": "Profil"
+  },
+  {
+    "id": "actions",
+    "translation": "Aktivitäten"
+  },
+  {
+    "id": "view_your_profile",
+    "translation": "Zum Profil"
+  },
+  {
+    "id": "set_name",
+    "translation": "Name bearbeiten"
+  },
+  {
+    "id": "set_profile",
+    "translation": "Profil Info bearbeiten"
+  },
+  {
+    "id": "export_key",
+    "translation": "Private Key exportieren"
+  },
+  {
+    "id": "change_password",
+    "translation": "Passwort ändern"
+  },
+  {
+    "id": "reply",
+    "translation": {
+      "one": "Antwort",
+      "other": "Antworten"
+    }
+  },
+  {
+    "id": "reply_verb",
+    "translation": "antworten"
+  },
+  {
+    "id": "like",
+    "translation": {
+      "one": "Gefällt mir",
+      "other": "Gefällt mir"
+    }
+  },
+  {
+    "id": "top",
+    "translation": "Topaktuell"
+  },
+  {
+    "id": "personalized",
+    "translation": "personalisiertes"
+  },
+  {
+    "id": "new",
+    "translation": "Neues"
+  },
+  {
+    "id": "archive",
+    "translation": "Archiv"
+  },
+  {
+    "id": "last_hour",
+    "translation": "Letzte Stunde"
+  },
+  {
+    "id": "last_24_hours",
+    "translation": "Lezte 24 Stunden"
+  },
+  {
+    "id": "last_7_days",
+    "translation": "Letzte 7 Tage"
+  },
+  {
+    "id": "all_time",
+    "translation": "Alle"
+  },
+  {
+    "id": "message",
+    "translation": "Nachricht"
+  },
+  {
+    "id": "password",
+    "translation": "Passwort"
+  },
+  {
+    "id": "save_password",
+    "translation": "Passwort speichern"
+  },
+  {
+    "id": "post",
+    "translation": "senden"
+  },
+  {
+    "id": "profile_text",
+    "translation": "Profil Info"
+  },
+  {
+    "id": "feed",
+    "translation": "Chronik"
+  },
+  {
+    "id": "posted_at",
+    "translation": "gesendet in"
+  },
+  {
+    "id": "posted",
+    "translation": "gesendet"
+  },
+  {
+    "id": "view_on_block_explorer",
+    "translation": "Anzeigen in Block Explorer"
+  },
+  {
+    "id": "view_address_on_block_explorer",
+    "translation": "Adresse in Block Explorer anzeigen"
+  },
+  {
+    "id": "view_name_on_block_explorer",
+    "translation": "Name in Block Explorer anzeigen"
+  },
+  {
+    "id": "page",
+    "translation": "Seite"
+  },
+  {
+    "id": "previous",
+    "translation": "Zurück"
+  },
+  {
+    "id": "next",
+    "translation": "Weiter"
+  },
+  {
+    "id": "connections",
+    "translation": "Verbindungen"
+  },
+  {
+    "id": "follow",
+    "translation": {
+      "one": "folgen",
+      "other": "folgen"
+    }
+  },
+  {
+    "id": "unfollow",
+    "translation": "Nicht mehr folgen"
+  },
+  {
+    "id": "next_day",
+    "translation": "Nächster Tag"
+  },
+  {
+    "id": "previous_day",
+    "translation": "Letzter Tag"
+  },
+  {
+    "id": "Topic",
+    "translation": "Thema"
+  },
+  {
+    "id": "Topics",
+    "translation": "Themen"
+  },
+  {
+    "id": "Send",
+    "translation": "senden"
+  },
+  {
+    "id": "Existing_Topics",
+    "translation": "Existierende Themen"
+  },
+  {
+    "id": "Create_new_topic",
+    "translation": "Neues Thema erstellen"
+  },
+  {
+    "id": "Most_recent_post",
+    "translation": "Aktuelle Beiträge"
+  },
+  {
+    "id": "Total_posts",
+    "translation": "Alle Beiträge"
+  },
+  {
+    "id": "Back_to_topics",
+    "translation": "Zurück zu den Themen"
+  },
+  {
+    "id": "Forget_password",
+    "translation": "Passwort löschen"
+  },
+  {
+    "id": "Names_set",
+    "translation": "Namen"
+  },
+  {
+    "id": "Total",
+    "translation": "Total"
+  },
+  {
+    "id": "Delete_Account",
+    "translation": "Konto löschen"
+  },
+  {
+    "id": "Guides",
+    "translation": "Anleitungen"
+  },
+  {
+    "id": "Signup",
+    "translation": "Registrieren"
+  },
+  {
+    "id": "Memo",
+    "translation": "Memo"
+  },
+  {
+    "id": "Poll",
+    "translation": "Umfrage"
+  },
+  {
+    "id": "Notifications",
+    "translation": "Benachrichtigungen"
+  },
+  {
+    "id": "Settings",
+    "translation": "Einstellungen"
+  },
+  {
+    "id": "new_poll",
+    "translation": "Neue Umfrage"
+  },
+  {
+    "id": "type",
+    "translation": "Typ"
+  },
+  {
+    "id": "select_one_option",
+    "translation": "Einfachauswahl"
+  },
+  {
+    "id": "select_multiple_options",
+    "translation": "Mehrfachauswahl"
+  },
+  {
+    "id": "question",
+    "translation": "Frage"
+  },
+  {
+    "id": "option",
+    "translation": {
+      "one": "Option",
+      "other": "Optionen"
+    }
+  },
+  {
+    "id": "add_option",
+    "translation": "Neue Option"
+  },
+  {
+    "id": "create_poll",
+    "translation": "Umfrage erstellen"
+  },
+  {
+    "id": "view_topic",
+    "translation": "Zum Thema"
+  },
+  {
+    "id": "search",
+    "translation": "Suche"
+  },
+  {
+    "id": "all",
+    "translation": "Alles"
+  },
+  {
+    "id": "most_posts",
+    "translation": "meiste Beiträge"
+  },
+  {
+    "id": "most_followed",
+    "translation": "meiste Follower"
+  },
+  {
+    "id": "start_thread",
+    "translation": "Den Thread eröffnen"
+  },
+  {
+    "id": "set_profile_pic",
+    "translation": "Profilbild bearbeiten"
+  },
+  {
+    "id": "show",
+    "translation": "zeigen"
+  },
+  {
+    "id": "replied_to",
+    "translation": "antworten"
+  },
+  {
+    "id": "topics_following",
+    "translation": "Themen, denen ich folge"
+  }
+]
